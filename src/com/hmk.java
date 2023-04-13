@@ -41,5 +41,8 @@ class Method{
         for (int i = 0; i < str.length; i++) {
             System.out.println(str[i]);
         }
+        //12
+        //12
+        System.out.println();
     }
 }
